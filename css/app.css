@@ -2,7 +2,7 @@ body{
 	background: black;
 	font-family: Verdana, Tahoma, sans-serif;
 	font-size: 100%;
-	color: white;
+	color: black;
 }
 
 head{
@@ -12,6 +12,20 @@ head{
 #wrapper {
 	width: 1400px;
 	margin: 0 auto;
-	background-color: #97d186;
+	background-color: white;
 	color: white;
 }
+
+#box{
+	float: left;
+	margin: 1px solid red;
+	text-align: center;
+}
+
+
+#box1{
+	float: right;
+	margin: 1px solid red
+	text-align:center;
+}
+
