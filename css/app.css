@@ -1,7 +1,17 @@
-#wrapper{
-	width: 1300px.
-	margin: 0 auto;
-	background-color: black;
+body{
+	background: black;
+	font-family: Verdana, Tahoma, sans-serif;
+	font-size: 100%;
 	color: white;
+}
 
+head{
+	
+}
+
+#wrapper {
+	width: 1400px;
+	margin: 0 auto;
+	background-color: #97d186;
+	color: white;
 }
